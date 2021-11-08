@@ -13,3 +13,5 @@
 [Building a Spam Filter with Naive Bayes](https://github.com/hammadasif402/Data-Science-Projects/blob/main/Building%20a%20Spam%20Filter%20with%20Naive%20Bayes/spam_filter.ipynb): In this project, a spam filter function is written using the multinomial Naive Bayes algorithm to classify SMS messages as spam and non-spam.
 
 [Winning Jeopardy](https://github.com/hammadasif402/Data-Science-Projects/blob/main/Project_%20Winning%20Jeopardy/jeopardy.ipynb):In this project, a dataset of Jeopardy questions is used to figure out some patterns in the questions that could help to win.
+
+[Predicting Car Prices](https://github.com/hammadasif402/Data-Science-Projects/blob/main/Project_%20Predicting%20Car%20Prices/Pred_car_prices.ipynb): This project is about using the k-nearest neighbors algorithm to predict car prices.
