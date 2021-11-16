@@ -15,3 +15,5 @@
 [Winning Jeopardy](https://github.com/hammadasif402/Data-Science-Projects/blob/main/Project_%20Winning%20Jeopardy/jeopardy.ipynb):In this project, a dataset of Jeopardy questions is used to figure out some patterns in the questions that could help to win.
 
 [Predicting Car Prices](https://github.com/hammadasif402/Data-Science-Projects/blob/main/Project_%20Predicting%20Car%20Prices/Pred_car_prices.ipynb): This project is about using the k-nearest neighbors algorithm to predict car prices.
+
+[Predicting Bike Rentals](https://github.com/hammadasif402/Data-Science-Projects/blob/main/Project_%20Predicting%20Bike%20Rentals-Update/Basics.ipynb): In this project, I have used and compared Linear Regression, Decision Tree Regression and Random Forest algorithms to predict bike rentals. I also tried to find the best parameters to prevent overfitting and get good results.
